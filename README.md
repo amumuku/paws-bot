@@ -33,7 +33,7 @@ cd paws-bot
 npm install
 ```
  准备数据文件：
-在项目根目录下创建以下两个文件：
+在项目根目录下创建以下文件：
 
 hash.txt： 每行包含一个 query_id（支持 JSON 格式或纯文本）。
 
