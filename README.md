@@ -2,7 +2,7 @@
 
 此脚本可自动完成任务、领取奖励，并更新用户账户余额。
 
-注册链接： [点击注册](https://t.me/PAWSOG_bot/PAWS?startapp=PQYn7uXx)
+注册链接： [点击注册](https://t.me/PAWSOG_bot/PAWS)
 
 ---
 
